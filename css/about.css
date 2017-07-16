@@ -20,6 +20,9 @@
 .fa.fa-instagram{
 	font-size: 22px;
 }
+p{
+	padding: 40px 200px 0 200px;
+}
 hr{
 	margin-top: 60px;
 	margin-bottom: 60px;
@@ -34,7 +37,7 @@ hr{
 .backdrop{
 	background-image:url(https://images.unsplash.com/photo-1464639351491-a172c2aa2911?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=565a75fe4bd31d744501175e15624201);
 	background-size:cover;
-	background-position:center;
+	background-position: center;
 
 }
 .intro{
@@ -47,7 +50,6 @@ hr{
                  0px 8px 13px rgba(0,0,0,0.1),
                  0px 18px 23px rgba(0,0,0,0.1);
 }
-
 
 #learn{
 	color: dark grey;
